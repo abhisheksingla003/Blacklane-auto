@@ -1,0 +1,5 @@
+true
+startTime=10:00 AM
+endTime=12:00 PM
+Date=2025-03-16
+Service=Premium
